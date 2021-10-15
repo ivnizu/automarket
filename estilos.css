@@ -1,0 +1,34 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-x: hidden;
+    background-image: linear-gradient(180deg, #ffffff 0%, #000000 100%);
+    color:#ffffff;
+}
+
+#menu a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #3b3b3b;
+}
+
+.carousel-inner{
+    max-height: 50rem;
+}
+
+.errorVacio{
+    border: 2px solid #eb0606
+}
+
+u{
+    font-weight: bold;
+    font-size: 18px;
+    color: #000000;
+}
+
+strong{
+    color: #000000;
+}
+
+#textoSombra{
+    text-shadow: 0.1em 0.1em rgb(0, 0, 0)
+}
