@@ -30,5 +30,9 @@ strong{
 }
 
 #textoSombra{
-    text-shadow: 0.1em 0.1em rgb(0, 0, 0)
+    text-shadow: 0.1em 0.1em rgb(0, 0, 0);
+}
+
+#redondear{
+    border-radius: 50px 50px;
 }
